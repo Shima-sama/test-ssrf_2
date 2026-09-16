@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Shima HomePage</title>
+  <link>https://shima-sama.github.io/test-ssrf_2/</link>
+  <description>This HomePage created by Shima (?)</description>
+  <item>
+    <title>Testing RSS</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools</description>
+  </item>
+  
+</channel>
+
+</rss>
