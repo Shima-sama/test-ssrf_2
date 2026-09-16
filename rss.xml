@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Shima HomePage</title>
+  <title>Lorem Feed — แฟ้มรวมเรื่องไร้สาระ</title>
   <atom:link href="https://shima-sama.github.io/test-ssrf_2/rss.xml" rel="self" type="application/rss+xml"/>
   <link>https://shima-sama.github.io/test-ssrf_2/</link>
   <description>This HomePage created by Shima (?)</description>
   <item>
-    <title>Testing RSS</title>
+    <title>Lorem Feed — แฟ้มรวมเรื่องไร้สาระ</title>
     <link>https://shima-sama.github.io/test-ssrf_2/feed.html</link>
     <description>New RSS tutorial on W3Schools</description>
   </item>
