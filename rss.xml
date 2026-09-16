@@ -3,12 +3,7 @@
 <channel>
   <title>Lorem Feed — แฟ้มรวมเรื่องไร้สาระ</title>
   <atom:link href="https://shima-sama.github.io/test-ssrf_2/rss.xml" rel="self" type="application/rss+xml"/>
-  <link>https://shima-sama.github.io/test-ssrf_2/</link>
+  <link>https://shima-sama.github.io/test-ssrf_2/feed.html</link>
   <description>This HomePage created by Shima (?)</description>
-  <item>
-    <title>Lorem Feed — แฟ้มรวมเรื่องไร้สาระ</title>
-    <link>https://shima-sama.github.io/test-ssrf_2/feed.html</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
 </channel>
 </rss>
