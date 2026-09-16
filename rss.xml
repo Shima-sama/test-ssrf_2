@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
   <title>Shima HomePage</title>
-  <atom:link href="https://shima-sama.github.io/test-ssrf_2/feed/" rel="self" type="application/rss+xml"/>
   <link>https://shima-sama.github.io/test-ssrf_2/</link>
   <description>This HomePage created by Shima (?)</description>
+  <atom:link href="https://shima-sama.github.io/test-ssrf_2/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Testing RSS</title>
     <link>https://shima-sama.github.io/test-ssrf_2/index.html</link>
